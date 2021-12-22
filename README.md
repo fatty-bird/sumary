@@ -1,1 +1,20 @@
 # sumary
+> 总结所学
+
+- 网络
+- Python
+- C++
+- JAVA
+- 工具-QT
+- 工具-PYQT
+- 设计模式
+- 架构设计
+- 自动化测试
+- 测试
+- demo
+  * QT工具
+  * 测试框架pytest
+  * 测试框架airtest
+  * 测试框架robotframework
+  * 接口测试框架应用
+  * 系统测试框架
